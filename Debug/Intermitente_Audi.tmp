@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\Debug\Intermitente_Audi.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Intermitente_Audi.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Intermitente_Audi.map</FILE>
+  <FILE>Intermitente_Audi.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\main.asm</FILE><LINE>10</LINE></main>
+  <delay_100><FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\main.asm</FILE><LINE>36</LINE></delay_100>
+  <bucle><FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\main.asm</FILE><LINE>14</LINE></bucle>
+  <delay_1><FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\main.asm</FILE><LINE>63</LINE></delay_1>
+  <L1><FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\main.asm</FILE><LINE>50</LINE></L1>
+  <L2><FILE>c:\users\javi\Documents\Atmel Studio\7.0\Intermitente_Audi\Intermitente_Audi\main.asm</FILE><LINE>77</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
